@@ -4,10 +4,11 @@
 object main extends App{
   
     // Import the API library
+    // v 11
    import com.tncy.top.image.ImageWrapper;
 
    // Source image file
-   var fileName : String = "imgs/ImagesTests/1.jpg";
+   var fileName : String = "imgs/ImagesTests/2.jpg";
 
    // Load wrapped image
    var wrappedImage : ImageWrapper = new ImageWrapper(fileName);
