@@ -4,7 +4,7 @@
 object main extends App{
   
     // Import the API library
-    // v 11
+    // v 11.0
    import com.tncy.top.image.ImageWrapper;
 
    // Source image file
