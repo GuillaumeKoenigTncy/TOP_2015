@@ -4,15 +4,15 @@ output mode:
 0 -> multiple
 output directories:
 1 items
-C:\Users\Utilisateur\workspaceSCALA\TOP_2015\src -> C:\Users\Utilisateur\workspaceSCALA\TOP_2015\bin
+C:\Users\remi\Desktop\Workspace\TOP_2015\src -> C:\Users\remi\Desktop\Workspace\TOP_2015\bin
 compile options:
 8 items
 0 -> -javabootclasspath
-1 -> C:\Program Files\Java\jre1.8.0_60\lib\resources.jar;C:\Program Files\Java\jre1.8.0_60\lib\rt.jar;C:\Program Files\Java\jre1.8.0_60\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_60\lib\jce.jar;C:\Program Files\Java\jre1.8.0_60\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_60\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_60\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jre1.8.0_60\lib\ext\cldrdata.jar;C:\Program Files\Java\jre1.8.0_60\lib\ext\dnsns.jar;C:\Program Files\Java\jre1.8.0_60\lib\ext\jaccess.jar;C:\Program Files\Java\jre1.8.0_60\lib\ext\jfxrt.jar;C:\Program Files\Java\jre1.8.0_60\lib\ext\localedata.jar;C:\Program Files\Java\jre1.8.0_60\lib\ext\nashorn.jar;C:\Program Files\Java\jre1.8.0_60\lib\ext\sunec.jar;C:\Program Files\Java\jre1.8.0_60\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jre1.8.0_60\lib\ext\sunmscapi.jar;C:\Program Files\Java\jre1.8.0_60\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jre1.8.0_60\lib\ext\zipfs.jar
+1 -> C:\Program Files\Java\jre1.8.0_65\lib\resources.jar;C:\Program Files\Java\jre1.8.0_65\lib\rt.jar;C:\Program Files\Java\jre1.8.0_65\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_65\lib\jce.jar;C:\Program Files\Java\jre1.8.0_65\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_65\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_65\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jre1.8.0_65\lib\ext\cldrdata.jar;C:\Program Files\Java\jre1.8.0_65\lib\ext\dnsns.jar;C:\Program Files\Java\jre1.8.0_65\lib\ext\jaccess.jar;C:\Program Files\Java\jre1.8.0_65\lib\ext\jfxrt.jar;C:\Program Files\Java\jre1.8.0_65\lib\ext\localedata.jar;C:\Program Files\Java\jre1.8.0_65\lib\ext\nashorn.jar;C:\Program Files\Java\jre1.8.0_65\lib\ext\sunec.jar;C:\Program Files\Java\jre1.8.0_65\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jre1.8.0_65\lib\ext\sunmscapi.jar;C:\Program Files\Java\jre1.8.0_65\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jre1.8.0_65\lib\ext\zipfs.jar
 2 -> -javaextdirs
 3 ->  
 4 -> -bootclasspath
-5 -> C:\Users\Utilisateur\eclipse\java-luna-scala\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
+5 -> C:\Users\remi\Downloads\scala-SDK-4.2.0-vfinal-2.11-win32.win32.x86_64\eclipse\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
 6 -> -encoding
 7 -> UTF-8
 javac options:
@@ -28,19 +28,19 @@ name hashing:
 0 -> false
 products:
 8 items
-C:\Users\Utilisateur\workspaceSCALA\TOP_2015\src\main.scala -> C:\Users\Utilisateur\workspaceSCALA\TOP_2015\bin\main$$anonfun$completeBy$1.class
-C:\Users\Utilisateur\workspaceSCALA\TOP_2015\src\main.scala -> C:\Users\Utilisateur\workspaceSCALA\TOP_2015\bin\main$$anonfun$RGBToGrey$1$$anonfun$apply$mcVI$sp$1$$anonfun$apply$mcVI$sp$2.class
-C:\Users\Utilisateur\workspaceSCALA\TOP_2015\src\main.scala -> C:\Users\Utilisateur\workspaceSCALA\TOP_2015\bin\main$$anonfun$RGBToGrey$1$$anonfun$apply$mcVI$sp$1$$anonfun$apply$mcVI$sp$3.class
-C:\Users\Utilisateur\workspaceSCALA\TOP_2015\src\main.scala -> C:\Users\Utilisateur\workspaceSCALA\TOP_2015\bin\main$$anonfun$RGBToGrey$1$$anonfun$apply$mcVI$sp$1.class
-C:\Users\Utilisateur\workspaceSCALA\TOP_2015\src\main.scala -> C:\Users\Utilisateur\workspaceSCALA\TOP_2015\bin\main$$anonfun$RGBToGrey$1.class
-C:\Users\Utilisateur\workspaceSCALA\TOP_2015\src\main.scala -> C:\Users\Utilisateur\workspaceSCALA\TOP_2015\bin\main$.class
-C:\Users\Utilisateur\workspaceSCALA\TOP_2015\src\main.scala -> C:\Users\Utilisateur\workspaceSCALA\TOP_2015\bin\main$delayedInit$body.class
-C:\Users\Utilisateur\workspaceSCALA\TOP_2015\src\main.scala -> C:\Users\Utilisateur\workspaceSCALA\TOP_2015\bin\main.class
+C:\Users\remi\Desktop\Workspace\TOP_2015\src\main.scala -> C:\Users\remi\Desktop\Workspace\TOP_2015\bin\main$$anonfun$RGBToGrey$1$$anonfun$apply$mcVI$sp$1$$anonfun$apply$mcVI$sp$2.class
+C:\Users\remi\Desktop\Workspace\TOP_2015\src\main.scala -> C:\Users\remi\Desktop\Workspace\TOP_2015\bin\main$$anonfun$RGBToGrey$1$$anonfun$apply$mcVI$sp$1$$anonfun$apply$mcVI$sp$3.class
+C:\Users\remi\Desktop\Workspace\TOP_2015\src\main.scala -> C:\Users\remi\Desktop\Workspace\TOP_2015\bin\main$$anonfun$RGBToGrey$1$$anonfun$apply$mcVI$sp$1.class
+C:\Users\remi\Desktop\Workspace\TOP_2015\src\main.scala -> C:\Users\remi\Desktop\Workspace\TOP_2015\bin\main$$anonfun$RGBToGrey$1.class
+C:\Users\remi\Desktop\Workspace\TOP_2015\src\main.scala -> C:\Users\remi\Desktop\Workspace\TOP_2015\bin\main$$anonfun$completeBy$1.class
+C:\Users\remi\Desktop\Workspace\TOP_2015\src\main.scala -> C:\Users\remi\Desktop\Workspace\TOP_2015\bin\main$.class
+C:\Users\remi\Desktop\Workspace\TOP_2015\src\main.scala -> C:\Users\remi\Desktop\Workspace\TOP_2015\bin\main$delayedInit$body.class
+C:\Users\remi\Desktop\Workspace\TOP_2015\src\main.scala -> C:\Users\remi\Desktop\Workspace\TOP_2015\bin\main.class
 binary dependencies:
 3 items
-C:\Users\Utilisateur\workspaceSCALA\TOP_2015\src\main.scala -> C:\Program Files\Java\jre1.8.0_60\lib\rt.jar
-C:\Users\Utilisateur\workspaceSCALA\TOP_2015\src\main.scala -> C:\Users\Utilisateur\eclipse\java-luna-scala\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
-C:\Users\Utilisateur\workspaceSCALA\TOP_2015\src\main.scala -> C:\Users\Utilisateur\workspaceSCALA\TOP_2015\lib\imagewrapper_2.11-1.0.0.jar
+C:\Users\remi\Desktop\Workspace\TOP_2015\src\main.scala -> C:\Program Files\Java\jre1.8.0_65\lib\rt.jar
+C:\Users\remi\Desktop\Workspace\TOP_2015\src\main.scala -> C:\Users\remi\Desktop\Workspace\TOP_2015\lib\imagewrapper_2.11-1.0.0.jar
+C:\Users\remi\Desktop\Workspace\TOP_2015\src\main.scala -> C:\Users\remi\Downloads\scala-SDK-4.2.0-vfinal-2.11-win32.win32.x86_64\eclipse\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar
 direct source dependencies:
 0 items
 direct external dependencies:
@@ -59,51 +59,51 @@ inheritance external dependencies:
 0 items
 class names:
 8 items
-C:\Users\Utilisateur\workspaceSCALA\TOP_2015\src\main.scala -> main
-C:\Users\Utilisateur\workspaceSCALA\TOP_2015\src\main.scala -> main$
-C:\Users\Utilisateur\workspaceSCALA\TOP_2015\src\main.scala -> main$$anonfun$RGBToGrey$1
-C:\Users\Utilisateur\workspaceSCALA\TOP_2015\src\main.scala -> main$$anonfun$RGBToGrey$1$$anonfun$apply$mcVI$sp$1
-C:\Users\Utilisateur\workspaceSCALA\TOP_2015\src\main.scala -> main$$anonfun$RGBToGrey$1$$anonfun$apply$mcVI$sp$1$$anonfun$apply$mcVI$sp$2
-C:\Users\Utilisateur\workspaceSCALA\TOP_2015\src\main.scala -> main$$anonfun$RGBToGrey$1$$anonfun$apply$mcVI$sp$1$$anonfun$apply$mcVI$sp$3
-C:\Users\Utilisateur\workspaceSCALA\TOP_2015\src\main.scala -> main$$anonfun$completeBy$1
-C:\Users\Utilisateur\workspaceSCALA\TOP_2015\src\main.scala -> main$delayedInit$body
+C:\Users\remi\Desktop\Workspace\TOP_2015\src\main.scala -> main
+C:\Users\remi\Desktop\Workspace\TOP_2015\src\main.scala -> main$
+C:\Users\remi\Desktop\Workspace\TOP_2015\src\main.scala -> main$$anonfun$RGBToGrey$1
+C:\Users\remi\Desktop\Workspace\TOP_2015\src\main.scala -> main$$anonfun$RGBToGrey$1$$anonfun$apply$mcVI$sp$1
+C:\Users\remi\Desktop\Workspace\TOP_2015\src\main.scala -> main$$anonfun$RGBToGrey$1$$anonfun$apply$mcVI$sp$1$$anonfun$apply$mcVI$sp$2
+C:\Users\remi\Desktop\Workspace\TOP_2015\src\main.scala -> main$$anonfun$RGBToGrey$1$$anonfun$apply$mcVI$sp$1$$anonfun$apply$mcVI$sp$3
+C:\Users\remi\Desktop\Workspace\TOP_2015\src\main.scala -> main$$anonfun$completeBy$1
+C:\Users\remi\Desktop\Workspace\TOP_2015\src\main.scala -> main$delayedInit$body
 used names:
 0 items
 product stamps:
 8 items
-C:\Users\Utilisateur\workspaceSCALA\TOP_2015\bin\main$$anonfun$completeBy$1.class -> lastModified(1447791339173)
-C:\Users\Utilisateur\workspaceSCALA\TOP_2015\bin\main$$anonfun$RGBToGrey$1$$anonfun$apply$mcVI$sp$1$$anonfun$apply$mcVI$sp$2.class -> lastModified(1447791339151)
-C:\Users\Utilisateur\workspaceSCALA\TOP_2015\bin\main$$anonfun$RGBToGrey$1$$anonfun$apply$mcVI$sp$1$$anonfun$apply$mcVI$sp$3.class -> lastModified(1447791339157)
-C:\Users\Utilisateur\workspaceSCALA\TOP_2015\bin\main$$anonfun$RGBToGrey$1$$anonfun$apply$mcVI$sp$1.class -> lastModified(1447791339144)
-C:\Users\Utilisateur\workspaceSCALA\TOP_2015\bin\main$$anonfun$RGBToGrey$1.class -> lastModified(1447791339127)
-C:\Users\Utilisateur\workspaceSCALA\TOP_2015\bin\main$.class -> lastModified(1447791339115)
-C:\Users\Utilisateur\workspaceSCALA\TOP_2015\bin\main$delayedInit$body.class -> lastModified(1447791339179)
-C:\Users\Utilisateur\workspaceSCALA\TOP_2015\bin\main.class -> lastModified(1447791338973)
+C:\Users\remi\Desktop\Workspace\TOP_2015\bin\main$$anonfun$completeBy$1.class -> lastModified(1448032971403)
+C:\Users\remi\Desktop\Workspace\TOP_2015\bin\main$$anonfun$RGBToGrey$1$$anonfun$apply$mcVI$sp$1$$anonfun$apply$mcVI$sp$2.class -> lastModified(1448032971393)
+C:\Users\remi\Desktop\Workspace\TOP_2015\bin\main$$anonfun$RGBToGrey$1$$anonfun$apply$mcVI$sp$1$$anonfun$apply$mcVI$sp$3.class -> lastModified(1448032971397)
+C:\Users\remi\Desktop\Workspace\TOP_2015\bin\main$$anonfun$RGBToGrey$1$$anonfun$apply$mcVI$sp$1.class -> lastModified(1448032971387)
+C:\Users\remi\Desktop\Workspace\TOP_2015\bin\main$$anonfun$RGBToGrey$1.class -> lastModified(1448032971377)
+C:\Users\remi\Desktop\Workspace\TOP_2015\bin\main$.class -> lastModified(1448032971371)
+C:\Users\remi\Desktop\Workspace\TOP_2015\bin\main$delayedInit$body.class -> lastModified(1448032971406)
+C:\Users\remi\Desktop\Workspace\TOP_2015\bin\main.class -> lastModified(1448032971322)
 source stamps:
 1 items
-C:\Users\Utilisateur\workspaceSCALA\TOP_2015\src\main.scala -> hash(b0ecb1a45b0e4f0947848a9a54386be29146a13a)
+C:\Users\remi\Desktop\Workspace\TOP_2015\src\main.scala -> hash(c4cb9aedcec653e3fcbadf7e65a896786e834fc8)
 binary stamps:
 3 items
-C:\Program Files\Java\jre1.8.0_60\lib\rt.jar -> lastModified(1443508747789)
-C:\Users\Utilisateur\eclipse\java-luna-scala\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar -> lastModified(1443508427228)
-C:\Users\Utilisateur\workspaceSCALA\TOP_2015\lib\imagewrapper_2.11-1.0.0.jar -> lastModified(1447429386942)
+C:\Program Files\Java\jre1.8.0_65\lib\rt.jar -> lastModified(1448016482431)
+C:\Users\remi\Desktop\Workspace\TOP_2015\lib\imagewrapper_2.11-1.0.0.jar -> lastModified(1448032829964)
+C:\Users\remi\Downloads\scala-SDK-4.2.0-vfinal-2.11-win32.win32.x86_64\eclipse\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar -> lastModified(1443179598000)
 class names:
 3 items
-C:\Program Files\Java\jre1.8.0_60\lib\rt.jar -> java.lang.Object
-C:\Users\Utilisateur\eclipse\java-luna-scala\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar -> scala.App
-C:\Users\Utilisateur\workspaceSCALA\TOP_2015\lib\imagewrapper_2.11-1.0.0.jar -> com.tncy.top.image.ImageWrapper
+C:\Program Files\Java\jre1.8.0_65\lib\rt.jar -> java.lang.Object
+C:\Users\remi\Desktop\Workspace\TOP_2015\lib\imagewrapper_2.11-1.0.0.jar -> com.tncy.top.image.ImageWrapper
+C:\Users\remi\Downloads\scala-SDK-4.2.0-vfinal-2.11-win32.win32.x86_64\eclipse\plugins\org.scala-lang.scala-library_2.11.7.v20150622-112736-1fbce4612c.jar -> scala.DelayedInit
 internal apis:
 1 items
-C:\Users\Utilisateur\workspaceSCALA\TOP_2015\src\main.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDt/HrCAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAEbWFpbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABBzY2FsYS5kZXByZWNhdGVkdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuU2FmZUxhenkkSW1wbDuRTxH0RUzJAgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AMAFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AFUwACWluaGVyaXRlZHEAfgAVTAAHcGFyZW50c3EAfgAVeHEAfgA3c3EAfgAwAXVxAH4AEAAAAABwc3EAfgAwAXVxAH4AEAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AFnEAfgAgdXEAfgAhAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4AQXhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+ABxMAAV2YWx1ZXEAfgAceHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+ABxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgA2dAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ADZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AFtzcQB+ACMAcQB+ACV1cQB+ACYAAAAAc3EAfgBOdAAEVW5pdHEAfgBUdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+ABxMAAN0cGVxAH4AQXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AKXQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AT1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4ANnNxAH4ATnQABUFycmF5cQB+AFR1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4ATnQABlN0cmluZ3NxAH4AUnNxAH4AVXVxAH4AWAAAAANzcQB+AFp0AARqYXZhc3EAfgBadAAEbGFuZ3EAfgBfcHNxAH4AMAF1cQB+AHcAAAAEc3EAfgBOdAADQXBwcQB+AFRzcQB+AE50AAtEZWxheWVkSW5pdHEAfgBUc3EAfgBOdAAGT2JqZWN0cQB+AHtzcQB+AE50AANBbnlxAH4AVHBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVEXFo1ZdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAcTAAPc291cmNlRGlyZWN0b3J5cQB+ABx4cHQAMEM6XFVzZXJzXFV0aWxpc2F0ZXVyXHdvcmtzcGFjZVNDQUxBXFRPUF8yMDE1XGJpbnQAMEM6XFVzZXJzXFV0aWxpc2F0ZXVyXHdvcmtzcGFjZVNDQUxBXFRPUF8yMDE1XHNyY3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUsOyxpFsOTwlHhIqaVDhr4pFGoTo=
+C:\Users\remi\Desktop\Workspace\TOP_2015\src\main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDt/HrCAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAEbWFpbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABBzY2FsYS5kZXByZWNhdGVkdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuU2FmZUxhenkkSW1wbDuRTxH0RUzJAgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+ADF4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+ADAAcHNxAH4ANXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAVTAAJaW5oZXJpdGVkcQB+ABVMAAdwYXJlbnRzcQB+ABV4cQB+ADlzcQB+ADAAcHNxAH4ANXVxAH4AEAAAAABzcQB+ADAAcHNxAH4ANXVxAH4AEAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AFnEAfgAgdXEAfgAhAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4ARnhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+ABxMAAV2YWx1ZXEAfgAceHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+ABxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgA4dAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ADhzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAceHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AGBzcQB+ACMAcQB+ACV1cQB+ACYAAAAAc3EAfgBTdAAEVW5pdHEAfgBZdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+ABxMAAN0cGVxAH4ARnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AKXQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AVFsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AOHNxAH4AU3QABUFycmF5cQB+AFl1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AU3QABlN0cmluZ3NxAH4AV3NxAH4AWnVxAH4AXQAAAANzcQB+AF90AARqYXZhc3EAfgBfdAAEbGFuZ3EAfgBkc3EAfgAwAHBzcQB+ADV1cQB+AHwAAAAEc3EAfgBTdAADQXBwcQB+AFlzcQB+AFN0AAtEZWxheWVkSW5pdHEAfgBZc3EAfgBTdAAGT2JqZWN0cQB+AIBzcQB+AFN0AANBbnlxAH4AWXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFRJX2baHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4AHEwAD3NvdXJjZURpcmVjdG9yeXEAfgAceHB0ACxDOlxVc2Vyc1xyZW1pXERlc2t0b3BcV29ya3NwYWNlXFRPUF8yMDE1XGJpbnQALEM6XFVzZXJzXHJlbWlcRGVza3RvcFxXb3Jrc3BhY2VcVE9QXzIwMTVcc3JjdXIAAltCrPMX+AYIVOACAAB4cAAAABTEy5rtzsZT4/y6335lqJZ4boNPyA==
 external apis:
 0 items
 source infos:
 1 items
-C:\Users\Utilisateur\workspaceSCALA\TOP_2015\src\main.scala -> 
+C:\Users\remi\Desktop\Workspace\TOP_2015\src\main.scala -> 
 AAAAAAAAAAA=
 compilations:
-245 items
+246 items
 000 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUQGHejp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMkM6XFVzZXJzXFV0aWxpc2F0ZXVyXHdvcmtzcGFjZVNDQUxBXFByb2pldFYwXzBcYmludAAyQzpcVXNlcnNcVXRpbGlzYXRldXJcd29ya3NwYWNlU0NBTEFcUHJvamV0VjBfMFxzcmM=
 001 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUQGHhvN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMkM6XFVzZXJzXFV0aWxpc2F0ZXVyXHdvcmtzcGFjZVNDQUxBXFByb2pldFYwXzBcYmludAAyQzpcVXNlcnNcVXRpbGlzYXRldXJcd29ya3NwYWNlU0NBTEFcUHJvamV0VjBfMFxzcmM=
 002 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUQGHwnZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMkM6XFVzZXJzXFV0aWxpc2F0ZXVyXHdvcmtzcGFjZVNDQUxBXFByb2pldFYwXzBcYmludAAyQzpcVXNlcnNcVXRpbGlzYXRldXJcd29ya3NwYWNlU0NBTEFcUHJvamV0VjBfMFxzcmM=
@@ -349,3 +349,4 @@ compilations:
 242 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABURcUyXZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMEM6XFVzZXJzXFV0aWxpc2F0ZXVyXHdvcmtzcGFjZVNDQUxBXFRPUF8yMDE1XGJpbnQAMEM6XFVzZXJzXFV0aWxpc2F0ZXVyXHdvcmtzcGFjZVNDQUxBXFRPUF8yMDE1XHNyYw==
 243 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABURcVvLx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMEM6XFVzZXJzXFV0aWxpc2F0ZXVyXHdvcmtzcGFjZVNDQUxBXFRPUF8yMDE1XGJpbnQAMEM6XFVzZXJzXFV0aWxpc2F0ZXVyXHdvcmtzcGFjZVNDQUxBXFRPUF8yMDE1XHNyYw==
 244 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABURcWjVl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMEM6XFVzZXJzXFV0aWxpc2F0ZXVyXHdvcmtzcGFjZVNDQUxBXFRPUF8yMDE1XGJpbnQAMEM6XFVzZXJzXFV0aWxpc2F0ZXVyXHdvcmtzcGFjZVNDQUxBXFRPUF8yMDE1XHNyYw==
+245 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUSV9m2h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQALEM6XFVzZXJzXHJlbWlcRGVza3RvcFxXb3Jrc3BhY2VcVE9QXzIwMTVcYmludAAsQzpcVXNlcnNccmVtaVxEZXNrdG9wXFdvcmtzcGFjZVxUT1BfMjAxNVxzcmM=
